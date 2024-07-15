@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
 <h3 align="center">An AI engineer in the making!</h3>
 
-<div align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp" width="200"/>
-</div>
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp" width="300"/>
 
 
 - 🔭 I’m currently working on [Master Thesis](https://github.com/Suleman96/Master_Thesis) (Still needs to be edited).
