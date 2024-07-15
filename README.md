@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
 <h3 align="center">An AI engineer in the making!</h3>
 
-- 🔭 I’m currently working on [my Master Thesis](https://github.com/Suleman96/Master_Thesis) (Still needs to be edited).
+- 🔭 I’m currently working on [Master Thesis](https://github.com/Suleman96/Master_Thesis) (Still needs to be edited).
 
 - 🌱 I’m currently learning **Computer Vision and ML Engineering**.
 
