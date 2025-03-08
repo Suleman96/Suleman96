@@ -4,7 +4,9 @@
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp" width="300"/>
 
 
-- 🔭 Completed [Master Thesis](https://github.com/Suleman96/Master_Thesis).
+- 🔭 Gradute of Artificial Intelligence
+  
+- Completed [Master Thesis](https://github.com/Suleman96/Master_Thesis).
 
 - 🌱 Expert of **Computer Vision and ML Engineering**.
 
