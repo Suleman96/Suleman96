@@ -6,7 +6,7 @@
 
 - 🌱 Expert of **Computer Vision and Machine Learning Engineering**.
 
-- 👨‍💻 My projects can be found in this [Repository](https://github.com/Suleman96).
+- 👨‍💻 My projects can be found in this [Repository](https://github.com/Suleman96?tab=repositories).
 
 - 📫 How to reach me: **m.suleman.me96@gmail.com** and [LinkedIn](https://www.linkedin.com/in/suleman96/)
 
