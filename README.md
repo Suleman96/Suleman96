@@ -5,27 +5,14 @@
   
 I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision and Machine Learning, focused on real-time systems and intelligent automation. With hands-on experience in deploying deep learning models for real-world applications, I thrive on solving complex problems using data-driven, LLM-based and vision-based approaches.
 
-- 🌱 Expert of **Computer Vision and Machine Learning Engineering**.
 
-- 👨‍💻 My projects can be found in this [Repository](https://github.com/Suleman96?tab=repositories).
-
-- 📫 How to reach me: **m.suleman.me96@gmail.com** and [LinkedIn](https://www.linkedin.com/in/suleman96/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suleman96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suleman96" height="30" width="40" /></a>
-</p>
-
-
-- 🛠️ Specialized in **Computer Vision**, **LLMs**, and **RAG systems**
+- 🛠️ Specialized in **Computer Vision**, **Machine Learning**, **LLMs** and **RAG systems**
 - 🚀 Hands-on with **real-time AI deployment** using NVIDIA Jetson & TensorRT
-- 🧠 NLP, OCR, Depth Estimation, and Segmentation expertise
+- 🧠 NLP, Depth Estimation, and Segmentation expertise
 - 🔍 Passionate about AI-driven innovation & automation
 
 📫 **Email:** m.suleman.me96@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/suleman96) | [GitHub](https://github.com/Suleman96?tab=repositories)
-
-
 
 ---
 
@@ -49,9 +36,8 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 
 ## 🌍 Languages
 
-- English – Fluent  
-- German – Conversational (B1)  
-- Urdu – Native
+🇬🇧 English — Fluent | 🇩🇪 German — Conversational (B1) | 🇵🇰 Urdu — Native
+
 
 ---
 
