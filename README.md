@@ -6,10 +6,31 @@
 I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision and Machine Learning, focused on real-time systems and intelligent automation. With hands-on experience in deploying deep learning models for real-world applications, I thrive on solving complex problems using data-driven, LLM-based and vision-based approaches.
 
 
+
+🔹 What I Do
+
 - 🛠️ Specialized in **Computer Vision**, **Machine Learning**, **LLMs** and **RAG systems**
-- 🚀 Hands-on with **real-time AI deployment** using NVIDIA Jetson & TensorRT
-- 🧠 NLP, Depth Estimation, and Segmentation expertise
-- 🔍 Passionate about AI-driven innovation & automation
+- 🚀 Hands-on with **Real-time AI deployment** using NVIDIA Jetson & TensorRT
+
+- AI & Machine Learning – 🧠 NLP, Depth Estimation, and Segmentation expertise
+- 🔍 Passionate about AI – driven innovation & automation
+- ☁️ Cloud & DevOps – AWS, Google Cloud, Docker
+- 📊 Data Engineering – ETL pipelines, data processing, and storage solutions
+
+
+<!-- 🧠 AI & Machine Learning – Computer vision, deep learning, OCR, and sensor fusion
+🏗 System Design & Simulation – Robotics, autonomous systems, and model-based engineering
+☁️ Cloud & DevOps – AWS, Google Cloud, Docker, Kubernetes
+📊 Data Engineering – ETL pipelines, data processing, and storage solutions
+📌 Highlighted Projects
+🚁 Sensor Fusion for UAVs – Improved autonomous UAV navigation by integrating LiDAR and camera data, increasing accuracy by 5% (Fraunhofer IVI).
+📄 OCR System Enhancement – Optimized document text recognition, improving accuracy by 10% (Raed IT Solutions).
+🛰️ Road Condition Detection – Built a machine learning pipeline for detecting road conditions using satellite images.
+📚 Tech Stack
+Python | C++ | TensorFlow | PyTorch | OpenCV | ROS | Docker | Kubernetes | PostgreSQL | AWS | Google Cloud
+-->
+
+
 
 <!--  📫 **Email:** m.suleman.me96@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/suleman96) | [GitHub](https://github.com/Suleman96?tab=repositories)
