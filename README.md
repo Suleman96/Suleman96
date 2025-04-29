@@ -10,15 +10,14 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 - 🚀 Hands-on with **real-time AI deployment** using NVIDIA Jetson & TensorRT
 - 🧠 NLP, Depth Estimation, and Segmentation expertise
 - 🔍 Passionate about AI-driven innovation & automation
-- 🌍 Languages
-  🇬🇧 English — Fluent | 🇩🇪 German — Conversational (B1) | 🇵🇰 Urdu — Native
 
-📫 **Email:** m.suleman.me96@gmail.com  
+<!--  📫 **Email:** m.suleman.me96@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/suleman96) | [GitHub](https://github.com/Suleman96?tab=repositories)
 
+-->
 ---
 
-# 🔗 Connect with me
+## 🔗 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/suleman96" target="blank">
@@ -39,9 +38,10 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 
 ## 🌍 Languages
 
-🇬🇧 English — Fluent 
-🇩🇪 German — Conversational (B1) 
-🇵🇰 Urdu — Native
+- **English** 🇬🇧 — Fluent
+- **German** 🇩🇪 — Conversational (B1 Level)
+- **Urdu** 🇵🇰 — Native Speaker
+
 
 
 ---
