@@ -136,7 +136,7 @@ Python | C++ | TensorFlow | PyTorch | OpenCV | ROS | Docker | Kubernetes | Postg
 ## 📊 GitHub Stats
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Suleman96&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></p> -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&theme=tokyonight" alt="Top Languages"/></p> 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&theme=tokyonight" alt="Top Languages"/></p> 
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Suleman96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></p> -->
 
 ---
