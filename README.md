@@ -37,7 +37,9 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 
 ## 🌍 Languages
 
-🇬🇧 English — Fluent | 🇩🇪 German — Conversational (B1) | 🇵🇰 Urdu — Native
+🇬🇧 English — Fluent 
+🇩🇪 German — Conversational (B1) 
+🇵🇰 Urdu — Native
 
 
 ---
