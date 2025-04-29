@@ -12,10 +12,10 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 - 🛠️ Specialized in **Computer Vision**, **Machine Learning**, **LLMs** and **RAG systems**
 - 🚀 Hands-on with **Real-time AI deployment** using NVIDIA Jetson & TensorRT
 
-- AI & Machine Learning – 🧠 NLP, Depth Estimation, and Segmentation expertise
-- 🔍 Passionate about AI – driven innovation & automation
-- ☁️ Cloud & DevOps – AWS, Google Cloud, Docker
-- 📊 Data Engineering – ETL pipelines, data processing, and storage solutions
+-- 🧠 AI & Machine Learning – NLP, Depth Estimation, and Segmentation expertise
+-- 🔍 Passionate about AI – driven innovation & automation
+-- ☁️ Cloud & DevOps – AWS, Google Cloud, Docker
+-- 📊 Data Engineering – ETL pipelines, data processing, and storage solutions
 
 
 <!-- 🧠 AI & Machine Learning – Computer vision, deep learning, OCR, and sensor fusion
