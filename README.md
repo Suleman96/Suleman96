@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
-<h3 align="center">🚀 Machine Learning Expert | Computer Vision Specialist | LLM |Real-time Systems</h3>
+<h3 align="center">🚀 Machine Learning Expert | Computer Vision & LLM Specialist | Real-time Systems</h3>
 
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp" width="300"/>
   
