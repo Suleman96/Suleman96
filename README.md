@@ -19,19 +19,18 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 # 🔗 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/suleman96" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://linkedin.com/in/suleman96" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Suleman96?tab=repositories" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  <a href="https://github.com/Suleman96?tab=repositories" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:m.suleman.me96@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" />
+  <a href="mailto:m.suleman.me96@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
 ---
 
 ## 🌍 Languages
