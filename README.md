@@ -103,14 +103,16 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 
 ## 📊 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Suleman96&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&theme=tokyonight" alt="Top Languages"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Suleman96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Suleman96&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></p> -->
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&theme=tokyonight" alt="Top Languages"/></p> 
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Suleman96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></p> -->
 
 ---
+<!-- This is a comment. It will not be visible on the rendered GitHub page 
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Suleman96&theme=tokyonight&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
 </p>
+-->
