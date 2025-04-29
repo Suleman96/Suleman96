@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
-<h3 align="center">🚀 Machine Learning Engineer | Computer Vision Specialist | LLMs & RAG Systems | Real-Time Systems</h3>
+<h3 align="center">🚀 Machine Learning Expert | Computer Vision Specialist | LLM |Real-time Systems</h3>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp" width="300"/>
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp" width="300"/>
+  
+I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision and Machine Learning, focused on real-time systems and intelligent automation. With hands-on experience in deploying deep learning models for real-world applications, I thrive on solving complex problems using data-driven, LLM-based and vision-based approaches.
+
+- 🌱 Expert of **Computer Vision and Machine Learning Engineering**.
+
+- 👨‍💻 My projects can be found in this [Repository](https://github.com/Suleman96?tab=repositories).
+
+- 📫 How to reach me: **m.suleman.me96@gmail.com** and [LinkedIn](https://www.linkedin.com/in/suleman96/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/suleman96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suleman96" height="30" width="40" /></a>
 </p>
 
----
-
-## 🧠 About Me
-
-I'm **Muhammad Suleman**, a Machine Learning Engineer focused on **AI for perception systems**, **LLMs**, and **retrieval-augmented generation (RAG)**.  
-I build real-time, intelligent systems with **optimized deployment** for embedded platforms and cloud environments.  
-Skilled in solving complex problems with data-driven and vision-based AI solutions.
 
 - 🛠️ Specialized in **Computer Vision**, **LLMs**, and **RAG systems**
 - 🚀 Hands-on with **real-time AI deployment** using NVIDIA Jetson & TensorRT
@@ -99,17 +103,9 @@ Skilled in solving complex problems with data-driven and vision-based AI solutio
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suleman96&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suleman96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Suleman96&show_icons=true&theme=tokyonight" alt="GitHub Stats"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&theme=tokyonight" alt="Top Languages"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Suleman96&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></p>
 
 ---
 
