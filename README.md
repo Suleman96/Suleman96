@@ -3,16 +3,17 @@
 
   <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRibjdhZDJvdnl0bmJzZ2VnbTBsd2FoM2RnczF5ajhrb2M1YjZlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp" width="300"/>
   
-I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision and Machine Learning, focused on real-time systems and intelligent automation. With hands-on experience in deploying deep learning models for real-world applications, I thrive on solving complex problems using data-driven, LLM-based and vision-based approaches.
+I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision and Machine Learning, focused on real-time systems and intelligent automation for production-level applications. With hands-on experience in deploying deep learning models for real-world applications, I thrive on solving complex problems using data-driven, LLM-based and vision-based approaches.
+
 
 ### 🔧 What I Do
 
-- 🧠 **AI & Machine Learning** – NLP, segmentation, depth estimation, and zero-shot learning  
+- 🧠 **AI & Machine Learning** – NLP, Vision Based Segmentation, Depth Estimation models.
 - 🤖 **LLMs & RAG Systems** – Designing intelligent applications using transformer-based architectures  
 - 🚀 **Edge & Real-Time AI Deployment** – NVIDIA Jetson, TensorRT, PyTorch & ONNX optimization  
 - ☁️ **Cloud & DevOps** – AWS, GCP, Dockerized deployments, CI/CD pipelines  
 - 📊 **Data Engineering** – End-to-end data pipelines, preprocessing, and efficient storage solutions  
-- 💡 **Passionate about** building AI-powered automation and smart embedded systems 
+- 💡 **Passionate about** building AI-powered automation and smart systems 
 
 
 <!-- 🧠 AI & Machine Learning – Computer vision, deep learning, OCR, and sensor fusion
