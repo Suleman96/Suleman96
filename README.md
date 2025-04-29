@@ -42,6 +42,7 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&langs_count=6&theme=gruvbox&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suleman96&layout=compact&theme=dracula)
 
 
 
