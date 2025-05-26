@@ -15,7 +15,7 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 - 🚀 **Edge & Real-Time AI Deployment** – NVIDIA Jetson, TensorRT, PyTorch & ONNX optimization  
 - ☁️ **Cloud & DevOps** – AWS, GCP, Dockerized deployments, CI/CD pipelines  
 - 📊 **Data Engineering** – End-to-end data pipelines, preprocessing, and efficient storage solutions  
-- 💡 **Passionate about** building AI-powered automation and smart systems 
+- 💡 **Passionate about** building AI-powered automation and smart systems
 
 
 <!-- 🧠 AI & Machine Learning – Computer vision, deep learning, OCR, and sensor fusion
@@ -53,7 +53,7 @@ Python | C++ | TensorFlow | PyTorch | OpenCV | ROS | Docker | Kubernetes | Postg
     <img align="center" src="https://img.icons8.com/fluency/48/ffffff/gmail.png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
-
+- 📫 How to reach me [m.suleman.me96@gmail.com](mailto:m.suleman.me96@gmail.com)
 ---
 
 ## ⚡ Technologies & Tools
