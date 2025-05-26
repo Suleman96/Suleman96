@@ -54,17 +54,6 @@ Python | C++ | TensorFlow | PyTorch | OpenCV | ROS | Docker | Kubernetes | Postg
   </a>
 </p>
 
-
----
-
-## 🌍 Languages
-
-- **English** 🇬🇧 — Fluent
-- **German** 🇩🇪 — Conversational (B1 Level)
-- **Urdu** 🇵🇰 — Native Speaker
-
-
-
 ---
 
 ## ⚡ Technologies & Tools
@@ -130,6 +119,16 @@ Python | C++ | TensorFlow | PyTorch | OpenCV | ROS | Docker | Kubernetes | Postg
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Acrobat](https://img.shields.io/badge/-Acrobat%20Reader-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+
+
+---
+
+## 🌍 Languages
+
+- **English** 🇬🇧 — Fluent
+- **German** 🇩🇪 — Conversational (B1 Level)
+- **Urdu** 🇵🇰 — Native Speaker
+
 
 ---
 
