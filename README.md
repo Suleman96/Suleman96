@@ -53,7 +53,7 @@ Python | C++ | TensorFlow | PyTorch | OpenCV | ROS | Docker | Kubernetes | Postg
     <img align="center" src="https://img.icons8.com/fluency/48/ffffff/gmail.png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
-- 📫 How to reach me [m.suleman.me96@gmail.com](m.suleman.me96@gmail.com)
+- 📫 How to reach me: [m.suleman.me96@gmail.com](mailto:m.suleman.me96@gmail.com)
 
 
 ## ⚡ Technologies & Tools
