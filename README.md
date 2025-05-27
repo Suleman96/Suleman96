@@ -55,8 +55,7 @@ Python | C++ | TensorFlow | PyTorch | OpenCV | ROS | Docker | Kubernetes | Postg
 
 <br>
 
-### 📧 How to reach me: 
-<a href="mailto:m.suleman.me96@gmail.com">m.suleman.me96@gmail.com</a>
+📧 How to reach me: <a href="mailto:m.suleman.me96@gmail.com">m.suleman.me96@gmail.com</a>
 
 
 
