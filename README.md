@@ -54,7 +54,7 @@ Python | C++ | TensorFlow | PyTorch | OpenCV | ROS | Docker | Kubernetes | Postg
   </a>
 </p>
 - 📫 How to reach me [m.suleman.me96@gmail.com](mailto:m.suleman.me96@gmail.com)
----
+
 
 ## ⚡ Technologies & Tools
 
