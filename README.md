@@ -8,14 +8,18 @@
 I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision and Machine Learning, focused on real-time systems and intelligent automation for production-level applications. With hands-on experience in deploying deep learning models for real-world applications, I thrive on solving complex problems using data-driven, LLM-based and vision-based approaches.
 
 
-### 🔧 What I Do
+### 🚀 Tech Arsenal
 
-- 🧠 **AI & Machine Learning** – NLP, Vision Based Segmentation, Depth Estimation models.
-- 🤖 **LLMs & RAG Systems** – Designing intelligent applications using transformer-based architectures  
-- 🚀 **Edge & Real-Time AI Deployment** – NVIDIA Jetson, TensorRT, PyTorch & ONNX optimization  
-- ☁️ **Cloud & DevOps** – AWS, GCP, Dockerized deployments, CI/CD pipelines  
-- 📊 **Data Engineering** – End-to-end data pipelines, preprocessing, and efficient storage solutions  
-- 💡 **Passionate about** building AI-powered automation and smart systems
+| Domain / Area               | Tools, Frameworks & Focus                                                      |
+|-----------------------------|--------------------------------------------------------------------------------|
+| 🤖 GenAI & LLMs             | Ollama, LangChain, Transformers, RAG Systems, transformer-based architectures  |
+| 🧠 AI & Machine Learning    | NLP, Vision-Based Segmentation, Depth Estimation Models                        |
+| 🚀 Edge & Real-Time AI      | NVIDIA Jetson, TensorRT, PyTorch, ONNX Optimization                            |
+| ☁️ Cloud & DevOps           | AWS, GCP, Dockerized Deployments, CI/CD Pipelines                              |
+| 📊 Data Engineering         | End-to-end data pipelines, preprocessing, efficient storage solutions           |
+| 📈 Monitoring               | MLflow, TensorBoard, Weights & Biases (Wandb)                                  |
+| 💡 Passion                  | Building AI-powered automation and smart systems                               |
+
 
 
 <!-- 🧠 AI & Machine Learning – Computer vision, deep learning, OCR, and sensor fusion
