@@ -9,7 +9,6 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 
 
 ### 🚀 Tech Arsenal
-
 | Domain / Area               | Tools, Frameworks & Focus                                                      |
 |-----------------------------|--------------------------------------------------------------------------------|
 | 🤖 GenAI & LLMs             | Ollama, LangChain, Transformers, RAG Systems, transformer-based architectures  |
