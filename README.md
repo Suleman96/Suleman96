@@ -9,15 +9,21 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 
 
 ### 🚀 Tech Arsenal
-| Domain / Area               | Tools, Frameworks & Focus                                                      |
-|-----------------------------|--------------------------------------------------------------------------------|
-| 🤖 GenAI & LLMs             | Ollama, LangChain, Transformers, RAG Systems, transformer-based architectures  |
-| 🧠 AI & Machine Learning    | NLP, Vision-Based Segmentation, Depth Estimation Models                        |
-| 🚀 Edge & Real-Time AI      | NVIDIA Jetson, TensorRT, PyTorch, ONNX Optimization                            |
-| ☁️ Cloud & DevOps           | AWS, GCP, Dockerized Deployments, CI/CD Pipelines                              |
-| 📊 Data Engineering         | End-to-end data pipelines, preprocessing, efficient storage solutions           |
-| 📈 Monitoring               | MLflow, TensorBoard, Weights & Biases (Wandb)                                  |
-| 💡 Passion                  | Building AI-powered automation and smart systems                               |
+| Domain / Area               | Tools, Frameworks & Focus                                                                  |
+|-----------------------------|--------------------------------------------------------------------------------------------|
+| 🤖 GenAI & LLMs             | Ollama, LangChain, Transformers, Hugging Face, RAG Systems, Prompt Engineering, LLM Fine-Tuning |
+| 🧠 AI & Machine Learning    | GPT-4, Claude 3.7, Vision Segmentation, Depth Estimation, NLP, TensorFlow, Scikit-learn    |
+| 🦾 AI Agent Workflow        | LangChain, N8N, Cursor, FastAPI, RESTful APIs, Celery + Redis                              |
+| 🚀 Edge & Real-Time AI      | NVIDIA Jetson, TensorRT, PyTorch, ONNX Optimization, YOLOv8, MobileNet, SIFT, ORB          |
+| ☁️ Cloud & DevOps           | AWS (EC2, S3), GCP, Docker, MLOps, CI/CD (GitHub Actions), VirtualBox, Azure ML            |
+| 📊 Data Engineering         | Data Cleaning, Data Pipelining, SQL (MySQL, PostgreSQL), Pandas, NumPy                     |
+| 📈 Monitoring & MLOps       | MLflow, TensorBoard, Weights & Biases (Wandb)                                              |
+| 📉 Analytics & Visualization| Power BI, Tableau, Data Analysis, Microsoft Office (Excel, PowerPoint)                     |
+| 🤖 Computer Vision          | OpenCV, Roboflow, Image Detection & Tracking, Camera Calibration, ROS, Gazebo              |
+| 📱 App & Web Development    | Kivy, Gradio, HTML, CSS, MATLAB, Latex                                                     |
+| 🛠️ Product/Simulation       | SolidWorks, ANSYS, Cura (3D Printing), Structural Analysis                                 |
+| 💡 Passion                  | Building AI-powered automation, smart systems, and scalable prototypes                     |
+
 
 
 
