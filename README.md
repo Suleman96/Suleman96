@@ -15,7 +15,7 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 | 🧠 AI & Machine Learning    | GPT, Claude, Vision Segmentation, Depth Estimation, NLP, TensorFlow, Scikit-learn          |
 | 🦾 AI Agent Workflow        | LangChain, N8N, Cursor, FastAPI, RESTful APIs                                              |
 | 🚀 Edge & Real-Time AI      | NVIDIA Jetson, TensorRT, PyTorch, ONNX Optimization, YOLOv8, MobileNet, SIFT, ORB          |
-| ☁️ Cloud & DevOps           | AWS (EC2), GCP, Docker, MLOps, CI/CD (GitHub Actions), VirtualBox,                         |
+| ☁️ Cloud & DevOps           | AWS (EC2), GCP, Docker, MLOps, CI/CD (GitHub Actions), VirtualBox, WSL                         |
 | 📊 Data Engineering         | Data Cleaning, Data Pipelining, SQL (MySQL, PostgreSQL), Pandas, NumPy                     |
 | 📈 Monitoring & MLOps       | MLflow, TensorBoard, Weights & Biases (Wandb)                                              |
 | 📉 Analytics & Visualization| Power BI, Tableau, Data Analysis, Microsoft Office (Excel, PowerPoint)                     |
