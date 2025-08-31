@@ -12,6 +12,7 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 | Domain / Area               | Tools, Frameworks & Focus                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------|
 | 🤖 GenAI & LLMs             | Ollama, LangChain, Transformers, Hugging Face, RAG Systems, Prompt Engineering, LLM Fine-Tuning |
+| 📈 AI Business Automation   | n8n, Clay, flowwise, Apollo, Hubspot, instantly.ai                                                   |
 | 🧠 AI & Machine Learning    | GPT, Claude, Vision Segmentation, Depth Estimation, NLP, TensorFlow, Scikit-learn          |
 | 🦾 AI Agent Workflow        | LangChain, N8N, Cursor, FastAPI, RESTful APIs                                              |
 | 🚀 Edge & Real-Time AI      | NVIDIA Jetson, TensorRT, PyTorch, ONNX Optimization, YOLOv8, MobileNet, SIFT, ORB          |
