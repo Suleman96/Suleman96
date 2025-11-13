@@ -24,9 +24,6 @@ I'm Muhammad Suleman, an Machine Learning Engineer expertise in Computer Vision 
 | 🛠️ Product/Simulation       | SolidWorks, ANSYS, Cura (3D Printing), Structural Analysis                                 |
 | 💡 Passion                  | Building AI-powered automation, smart systems, and scalable prototypes                     |
 
-
-
-
 <!-- 🧠 AI & Machine Learning – Computer vision, deep learning, OCR, and sensor fusion
 🏗 System Design & Simulation – Robotics, autonomous systems, and model-based engineering
 ☁️ Cloud & DevOps – AWS, Google Cloud, Docker, Kubernetes
